@@ -1,8 +1,9 @@
 ## Hi, I am Zhixi Wei -- King of the Lion Mountain
 
 I am a fourth year PhD student in Economics at the University of Zürich under the supervision of professor Gregory Crawford. I am interested in studying modern issues in competition policy, such as the role of data or platform markets. My objective is to provide empirical evidence and theoretical frameworks that could guide competition authorities to deal with new and emerging challenges.
-
-![Image](./Selfportrait.jpeg)
+<div  align="center">    
+<img src="./Selfportrait.jpeg" width="60%" align=center>
+</div>
 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
