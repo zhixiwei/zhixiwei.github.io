@@ -35,5 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Contact Me!
 E-mail: grocerieswei@gmail.com
+
 Phone: +41 44 634 61 26
+
 Address: Luegislandstrasse 53C, 8051 Zürich
