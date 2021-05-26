@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Hi, I am Zhixi Wei -- King of the Lion Mountain
 
-You can use the [editor on GitHub](https://github.com/zhixiwei/zhixiwei.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a fourth year PhD student in Economics at the University of Zürich under the supervision of professor Gregory Crawford. I am interested in studying modern issues in competition policy, such as the role of data or platform markets. My objective is to provide empirical evidence and theoretical frameworks that could guide competition authorities to deal with new and emerging challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Zhixi is the king of the mountain
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -24,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](./Selfportrait.jpeg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
