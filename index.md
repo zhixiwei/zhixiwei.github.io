@@ -1,13 +1,14 @@
 ## Zhixi Wei 
 Undergraduate Student @[China University of Political Science and Law](http://en.cupl.edu.cn/) and Incoming Master Student @[University of Zürich](https://www.uzh.ch/en.html)
 
+#### [CV(Chinese Version)](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/CV_CN.pdf)
+
 <div  align="center">    
 <img src="./Selfportrait.jpeg" width="90%" align=center>
 </div>
 
 ### Publications
 - Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782. https://doi.org/10.1016/j.frl.2020.101782
-###[CV_CN](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/CV_CN.pdf)
 
 
 <!-- 
