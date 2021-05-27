@@ -1,9 +1,14 @@
-## Hi, I am Zhixi Wei -- King of the Lion Mountain
+## Zhixi Wei 
+Undergraduate Student @[China University of Political Science and Law](http://en.cupl.edu.cn/) and Incoming Master Student @[University of Zürich](https://www.uzh.ch/en.html)
 
-I am a fourth year PhD student in Economics at the University of Zürich under the supervision of professor Gregory Crawford. I am interested in studying modern issues in competition policy, such as the role of data or platform markets. My objective is to provide empirical evidence and theoretical frameworks that could guide competition authorities to deal with new and emerging challenges.
 <div  align="center">    
-<img src="./Selfportrait.jpeg" width="80%" align=center>
+<img src="./Selfportrait.jpeg" width="90%" align=center>
 </div>
+
+### Publications
+- Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782. https://doi.org/10.1016/j.frl.2020.101782
+###[CV_CN](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/CV_CN.pdf)
+
 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -33,9 +38,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhixiwei/zhixiwei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-## Contact Me!
+### Contact Me!
 E-mail: grocerieswei@gmail.com
 
-Phone: +41 44 634 61 26
+Phone: +86 151 2000 6631
 
 Address: Luegislandstrasse 53C, 8051 Zürich
