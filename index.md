@@ -1,7 +1,7 @@
 ## Zhixi Wei 
 Undergraduate Student @[China University of Political Science and Law](http://en.cupl.edu.cn/) and Incoming Master Student @[University of Zürich](https://www.uzh.ch/en.html)
 
-#### [CV(Chinese Version)](file:///Users/groceries/Documents/GitHub/zhixiwei.github.io/CV_CN.pdf)
+#### [CV(Chinese Version)](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/CV_CN.pdf)
 
 <div  align="center">    
 <img src="./Selfportrait.jpeg" width="90%" align=center>
