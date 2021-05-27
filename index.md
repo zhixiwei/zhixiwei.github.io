@@ -7,6 +7,8 @@ Undergraduate Student @[China University of Political Science and Law](http://en
 <img src="./Selfportrait.jpeg" width="90%" align=center>
 </div>
 
+
+
 ### Publications
 - Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782. https://doi.org/10.1016/j.frl.2020.101782
 
@@ -40,8 +42,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhixiwei/zhixiwei.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 ### Contact Me!
-E-mail: grocerieswei@gmail.com
-
-Phone: +86 151 2000 6631
-
-Address: Luegislandstrasse 53C, 8051 Zürich
+- E-mail: grocerieswei@gmail.com
+- Phone: +86 151 2000 6631
+- Address: Luegislandstrasse 53C, 8051 Zürich
