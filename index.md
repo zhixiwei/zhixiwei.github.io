@@ -12,7 +12,7 @@ Undergraduate Student @[China University of Political Science and Law](http://en
 
 
 ### Publications
-- Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782. https://doi.org/10.1016/j.frl.2020.101782
+- [Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782.](https://doi.org/10.1016/j.frl.2020.101782) 
 
 
 <!-- 
