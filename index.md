@@ -3,6 +3,7 @@ Undergraduate Student @[China University of Political Science and Law](http://en
 
 #### [CV(Chinese Version)](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/CV_CN.pdf)
 #### [申请复盘](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/%E3%80%90%E8%8B%B1%E6%B8%AF%E6%96%B0%E6%AC%A7%E9%99%86%E6%B7%B7%E7%94%B3%E5%A4%8D%E7%9B%98%E5%B8%96%E5%AD%90%E3%80%91.pdf)
+#### [雅思备考攻略](https://github.com/zhixiwei/zhixiwei.github.io/blob/main/%E9%9B%85%E6%80%9D%E5%A4%87%E8%80%83%E7%9A%84%E7%AD%96%E7%95%A5.pdf)
 
 <div  align="center">    
 <img src="./Selfportrait.jpeg" width="90%" align=center>
