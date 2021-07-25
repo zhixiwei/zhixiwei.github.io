@@ -16,7 +16,7 @@ Undergraduate Student @[China University of Political Science and Law](http://en
 - [Wei Z, Luo Y, Huang Z, et al. Spillover effects of RMB exchange rate among B&R countries: Before and during COVID-19 event[J]. Finance Research Letters, 2020: 101782.](https://drive.google.com/file/d/1KqJtPUCJHyZWzibUFvBSvHpHIu4FClHs/view?usp=sharing) 
 
 ### Working Paper
-Financial Technology and Banking Competition
+- Financial Technology and Banking Competition
 
 <!-- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
